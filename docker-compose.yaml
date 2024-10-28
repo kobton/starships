@@ -1,0 +1,6 @@
+services:
+  starships:
+    build: .
+    container_name: starships
+    ports:
+      - "8080:8080"
