@@ -9,7 +9,7 @@ This is a Spring Boot application built with Maven and Java 17.
 The application can be run with Maven using:
 
 ```
-mvn clean install && mvn spring-boot run
+mvn clean install && mvn spring-boot:run
 ```
 
 The application can also be run with docker compose:
